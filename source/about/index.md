@@ -1,4 +1,0 @@
----
-title: ABOUT KAKAROT
----
-WHOAMI
